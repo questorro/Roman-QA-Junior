@@ -1,2 +1,3 @@
 # Roman-QA-Junior
-Это мой личный репозиторий для выполнения тестовых заданий на позицию QA Engineer Junior
+
+Hi, my name is Roman Sushchenia, I`m 29 year old. 
